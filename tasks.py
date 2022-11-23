@@ -19,7 +19,7 @@ from invoke import task
 # DOCKER PARAMETERS
 # ---------------------------------------------------------------------------
 DOCKER_IMG = "ghcr.io/cdot65/nautobot-security-image"
-DOCKER_TAG = "0.0.1"
+DOCKER_TAG = "0.0.2"
 
 
 # ---------------------------------------------------------------------------
